@@ -9,7 +9,7 @@ const cars = [
     price: 407000,
     location: "San Diego, CA",
     year: 1995,
-    mileage: "6,686 miles",
+    mileage: "6,687 miles",
     hp: "300 HP",
     image: "/public/carrera.png",
     gradient: "from-yellow-100 to-white",
