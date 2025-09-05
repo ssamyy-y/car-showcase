@@ -11,7 +11,7 @@ const cars = [
     year: 1995,
     mileage: "6,687 miles",
     hp: "300 HP",
-    image: "/public/images/carrera.png",
+    image: "/images/carrera.png",
     gradient: "from-yellow-100 to-white",
   },
   {
@@ -22,7 +22,7 @@ const cars = [
     year: 2016,
     mileage: "2,650 miles",
     hp: "520 HP",
-    image: "/public/images/gt3rs.png",
+    image: "/images/gt3rs.png",
     gradient: "from-pink-100 to-white",
   },
   {
@@ -33,7 +33,7 @@ const cars = [
     year: 2015,
     mileage: "1,744 miles",
     hp: "887 HP",
-    image: "/public/images/spyder.png",
+    image: "/images/spyder.png",
     gradient: "from-gray-200 to-white",
   },
 ];
